@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="World_of_Battleships.AI">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAEBAAAACAADABAAQAAAAAMAABAQAAAAAAAgAA=</HashCode>
+      <FileName>AI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World_of_Battleships.Algoritms">
+    <Position X="8.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIBAAEACAAAAAAAAABAAAAAAQAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Algoritms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World_of_Battleships.Cell">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World_of_Battleships.Engine">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAOAAABAiAIJAAJAwAAREEEAAAgAAACAAAAgAE=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World_of_Battleships.Field">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World_of_Battleships.GUI">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgYCEEAABCAAAAYgAhCAAAATEACQAgCgIMAMgxwgAiI=</HashCode>
+      <FileName>GUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World_of_Battleships.Ship">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World_of_Battleships.UserNotificator">
+    <Position X="8.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAIAAAACAABAIAAAAEAAAASAAAAAAAAAA=</HashCode>
+      <FileName>UserNotificator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="World_of_Battleships._Move">
+    <Position X="4.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAEAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="World_of_Battleships.Target">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAIAgAAAAAAAAAgAAAAAAAAAAIA=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
